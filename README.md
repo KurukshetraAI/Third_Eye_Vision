@@ -3,3 +3,4 @@ Assist blind people to get a idea about their surroundings by continuously detec
 
 Person identification model is in person_identification.ipynb. 
 Android files contains in android folder.
+Evolution.apk is the application for runninng the person identificaiton model and app-debug is object detection model. 
